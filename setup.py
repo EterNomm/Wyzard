@@ -23,7 +23,7 @@ setup(
     version=version,
     author='EterNomm',
     author_email='eternommorg@gmail.com',
-    description='Combining several transformers models into one packages.',
+    description='Run various transformers models from one packages.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     license='MIT License',
