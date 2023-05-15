@@ -1,5 +1,5 @@
 # Wyzard
-[![GitHub](https://img.shields.io/github/license/EterNomm/Wyzard?label=Project%20License)](https://github.com/EterNomm/Wyzard/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/EterNomm/Wyzard?label=Project%20License&logo=github)](https://github.com/EterNomm/Wyzard/blob/main/LICENSE)
 [![Downloads](https://static.pepy.tech/personalized-badge/wyzard?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pypi.org/project/wyzard)
 [![GitHub issues](https://img.shields.io/github/issues/EterNomm/Wyzard?label=Issues&logo=github)](https://github.com/EterNomm/Wyzard/issues)
 [![GitHub Repo stars](https://img.shields.io/github/stars/EterNomm/Wyzard?label=Github%20Stars&logo=github)](https://github.com/EterNomm/Wyzard)
