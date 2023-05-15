@@ -26,6 +26,9 @@ More? soon!
 pip install wyzard
 ```
 
+## Example
+Examples code for each class can be seen at [here](https://github.com/EterNomm/Wyzard/tree/main/examples).
+
 ## Licence & Copyright
 
 ```
