@@ -1,6 +1,6 @@
 from .gpt_detector import GPTDetector
 from .object_detection import ObjectDetection
-from .image_to_text import ImageToText
+from .image_captioning import ImageCaptioning
 #from .utils import *
 
 __title__ = "Wyzard"
