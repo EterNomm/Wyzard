@@ -6,7 +6,7 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wyzard?label=Python%20Version&logo=python&logoColor=yellow)](https://pypi.org/project/wyzard)
 [![PyPI - Status](https://img.shields.io/pypi/status/wyzard?label=Package%20Status&logo=pypi&logoColor=yellow)](https://pypi.org/project/wyzard)
 
-**Combining several transformers models into one packages.**
+**Run various transformers models from one packages.**
 These packages aim to run various machine learning models using the [transformers](https://github.com/huggingface/transformers/) from [Hugging Face](https://huggingface.co/). Made to be user-friendly, concise, easy-to-understand. 
 
 By default, users don't need to choose a model anymore for various types of models, we have selected the one that fits the class. But the user can still replace it according to the model that the user wants.
