@@ -9,14 +9,15 @@
 **Combining several transformers models into one packages.**
 These packages aim to run various machine learning models using the [transformers](https://github.com/huggingface/transformers/) from [Hugging Face](https://huggingface.co/). Made to be user-friendly, concise, easy-to-understand. 
 
-> Note :
 By default, users don't need to choose a model anymore for various types of models, we have selected the one that fits the class. But the user can still replace it according to the model that the user wants.
 
-**Can run :**
+> **Can run :**
 - **Text-to-Image or Image generation** using [Diffusers package](https://github.com/huggingface/diffusers).
 - **GPT/AI output detector** using [GPT2](https://huggingface.co/gpt2) model.
 - **Object detection**
 - **Image-to-Text or image captioning**
+
+More? soon!
 
 
 ## Install
