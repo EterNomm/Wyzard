@@ -2,7 +2,7 @@ from transformers import VisionEncoderDecoderModel, ViTImageProcessor, AutoToken
 import torch
 from PIL import Image
 
-class ImageToText:
+class ImageCaptioning:
     def __init__(self, device:str="cuda"):
         self.device = device
         self.model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning").to(device)
