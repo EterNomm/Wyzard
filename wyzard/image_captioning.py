@@ -3,11 +3,11 @@ import torch
 from PIL import Image
 
 class ImageCaptioning:
-    def __init__(self, device:str="cuda"):
+    def __init__(self, model:str="nlpconnect/vit-gpt2-image-captioning", device:str="cuda"):
         self.device = device
-        self.model = VisionEncoderDecoderModel.from_pretrained("nlpconnect/vit-gpt2-image-captioning").to(device)
-        self.feature_extractor = ViTImageProcessor.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
-        self.tokenizer = AutoTokenizer.from_pretrained("nlpconnect/vit-gpt2-image-captioning")
+        self.model = VisionEncoderDecoderModel.from_pretrained(model).to(device)
+        self.feature_extractor = ViTImageProcessor.from_pretrained(model)
+        self.tokenizer = AutoTokenizer.from_pretrained(model)
 
     def predict(self, path:str, max_length:int=16, num_beams:int=4):
         gen_kwargs = {"max_length": max_length, "num_beams": num_beams}
