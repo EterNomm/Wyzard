@@ -3,3 +3,4 @@ diffusers
 Pillow
 torch
 matplotlib
+Cython
