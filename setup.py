@@ -21,17 +21,17 @@ def read_requirements():
 setup(
     name='wyzard',
     version=version,
-    author='EterNomm',
-    author_email='eternommorg@gmail.com',
+    author='LyQuid',
+    author_email='lyquidpersonal@gmail.com',
     description='Run various transformers models from one packages.',
     long_description=long_description,
     long_description_content_type='text/markdown',
     license='MIT License',
-    url='https://github.com/EterNomm/Wyzard',
+    url='https://github.com/LyQuid12/Wyzard',
     project_urls={
-        "Source Code": "https://github.com/EterNomm/Wyzard",
+        "Source Code": "https://github.com/LyQuid12/Wyzard",
         "Discord": "https://discord.gg/qpT2AeYZRN",
-        "Issue tracker": "https://github.com/EterNomm/Wyzard/issues"
+        "Issue tracker": "https://github.com/LyQuid12/Wyzard/issues"
     },
     packages=find_packages(),
     include_package_data=True,
