@@ -1,8 +1,8 @@
 # Wyzard
-[![GitHub](https://img.shields.io/github/license/EterNomm/Wyzard?label=Project%20License&logo=github)](https://github.com/EterNomm/Wyzard/blob/main/LICENSE)
+[![GitHub](https://img.shields.io/github/license/LyQuid12/Wyzard?label=Project%20License&logo=github)](https://github.com/LyQuid12/Wyzard/blob/main/LICENSE)
 [![Downloads](https://static.pepy.tech/personalized-badge/wyzard?period=total&units=international_system&left_color=grey&right_color=blue&left_text=Downloads)](https://pypi.org/project/wyzard)
-[![GitHub issues](https://img.shields.io/github/issues/EterNomm/Wyzard?label=Issues&logo=github)](https://github.com/EterNomm/Wyzard/issues)
-[![GitHub Repo stars](https://img.shields.io/github/stars/EterNomm/Wyzard?label=Github%20Stars&logo=github)](https://github.com/EterNomm/Wyzard)
+[![GitHub issues](https://img.shields.io/github/issues/LyQuid12/Wyzard?label=Issues&logo=github)](https://github.com/LyQuid12/Wyzard/issues)
+[![GitHub Repo stars](https://img.shields.io/github/stars/LyQuid12/Wyzard?label=Github%20Stars&logo=github)](https://github.com/LyQuid12/Wyzard)
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/wyzard?label=Python%20Version&logo=python&logoColor=yellow)](https://pypi.org/project/wyzard)
 [![PyPI - Status](https://img.shields.io/pypi/status/wyzard?label=Package%20Status&logo=pypi&logoColor=yellow)](https://pypi.org/project/wyzard)
 
@@ -27,11 +27,11 @@ pip install wyzard
 ```
 
 ## Example
-Examples code for each class can be seen at [here](https://github.com/EterNomm/Wyzard/tree/main/examples).
+Examples code for each class can be seen at [here](https://github.com/LyQuid12/Wyzard/tree/main/examples).
 
 ## Licence & Copyright
 
 ```
 This Project under MIT License
-Copyright (c) 2023-present EterNomm & LyQuid
+Copyright (c) 2023-present LyQuid (LyQuid12)
 ```
